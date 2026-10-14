@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+EbookLib>=0.18
+lxml>=5.0.0
+trafilatura>=1.12.0
